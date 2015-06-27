@@ -36,3 +36,5 @@ gem 'bootstrap-sass', '~> 3.3.0'
 
 gem "figaro", ">= 1.0.0"
 
+gem 'twitter'
+
