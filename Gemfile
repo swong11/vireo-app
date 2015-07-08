@@ -38,3 +38,5 @@ gem "figaro", ">= 1.0.0"
 
 gem 'twitter'
 
+gem "koala", "~> 2.0"
+
